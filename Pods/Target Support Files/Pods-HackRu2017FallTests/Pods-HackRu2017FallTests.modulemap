@@ -1,0 +1,6 @@
+framework module Pods_HackRu2017FallTests {
+  umbrella header "Pods-HackRu2017FallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
